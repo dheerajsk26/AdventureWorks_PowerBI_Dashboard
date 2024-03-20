@@ -99,5 +99,8 @@ Regional Performance: Delve into regional sales performance via dynamic maps and
 **Results:–** Adventure Works now harnesses data to inform strategic decisions, streamline operations, and elevate customer satisfaction levels. The dashboard offers a comprehensive view of the business, empowering the management team to navigate the dynamic landscape of manufacturing and cycling with confidence.
 
 
-<img width="726" alt="Dashboard_Screenshot" src="https://github.com/dheerajsk26/AdventureWorks_PowerBI_Dashboard/assets/77773902/1e457723-a658-4409-83e6-8394e9804e91">
+
+https://github.com/dheerajsk26/AdventureWorks_PowerBI_Dashboard/assets/77773902/6c0832c3-1a37-4e5c-82f1-786714410cb2
+
+
 
