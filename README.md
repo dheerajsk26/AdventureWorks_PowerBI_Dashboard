@@ -1,6 +1,7 @@
 # AdventureWorks_PowerBI_Dashboard
 
-Objective: Played the role of Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company. My responsibility was to transform raw data into professional-quality reports and dashboards to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers.
+**Objective:** 
+Played the role of Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company. My responsibility was to transform raw data into professional-quality reports and dashboards to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers.
 
 
 **STAGE 1: Connecting & Shaping Data**
